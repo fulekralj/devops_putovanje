@@ -1,0 +1,1 @@
+jedan file koji je nedostajao, odradili smo git reset --soft za file1
